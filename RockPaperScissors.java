@@ -65,7 +65,7 @@ public class RockPaperScissors {
 		RockPaperScissors a = new RockPaperScissors();
 		Scanner s = new Scanner(System.in);
 		
-		int yn = 'y';
+		char yn = 'y';
 		
 		do {
 			a.getInput();
